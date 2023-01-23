@@ -17,7 +17,7 @@ Ensures a minimum length of >8 and at least 3 special chars and digits.
 ### Installing
 
 ```
-git clone https://github.com/mbutcherdev/python-projects/password-generator
+git clone https://github.com/mbutcherdev/password-generator
 ```
 
 ### Executing program
